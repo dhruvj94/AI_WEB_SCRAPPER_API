@@ -43,7 +43,11 @@ pycache/ *.pyc
 Git folder
 
 .git/
+.gitignore
 
 VS Code settings
 
 .vscode/
+
+venv/
+*.log
